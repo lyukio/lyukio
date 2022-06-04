@@ -23,7 +23,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 
 - 🌱 I’m currently learning **How to create and use a Data Lake**.
 - 💬 Ask me about **programming logic, technologies and PC setups**. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: I know how to solve a Rubiks Cube.
 
 ---- 
