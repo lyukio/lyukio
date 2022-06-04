@@ -34,7 +34,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 
 | Course | Place | Teacher |
 | :---: | :---: | :---: |
-| NodeJs | São Paulo-SP | Erick Wendel |
+| APIs com Node.js | São Paulo-SP | Erick Wendel |
 
 </details>
 
