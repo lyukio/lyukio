@@ -24,7 +24,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 - 🌱 I’m currently learning **How to create and use a Data Lake**.
 - 💬 Ask me about **programming logic, technologies and PC setups**. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: My family has a pet turkey.
+- ⚡ Fun fact: I know how to solve a Rubiks Cube.
 
 ---- 
 <!--START_SECTION:table-->
@@ -43,7 +43,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
  # <i> "Anyone who motivates you to be better is someone worth keeping around."</i> 
  
  <p align="left">
-  <img src=https://i.pinimg.com/originals/ac/56/9d/ac569db1eccf95dea272043f517d6d5e.gif> 
+  <img src=https://imgur.com/HQ3WNwf.gif> 
 </p>
 
 # Thank you for reading! <3
