@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at **Huddle Brasil**. 
 Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>.
 
-- 🌱 I’m currently learning **How to create and use a Data Lake**.
+- 🌱 I’m currently learning **How to create a Data Queue to load a Data Lake**.
 - 💬 Ask me about **programming logic, technologies and PC setups**. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I know how to solve a Rubiks Cube.
@@ -37,6 +37,19 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 | APIs com Node.js | São Paulo-SP | Erick Wendel |
 
 </details>
+
+ <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Amanda-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+ 
+ ##
+
+ <p align="center">
+ <a href="https://www.linkedin.com/in/lyukio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lyukio@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
 --------
 
