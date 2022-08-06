@@ -70,5 +70,5 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
    <img src=https://imgur.com/HQ3WNwf.gif> 
  </p>
 
-# Thank you for reading! <3
+:hearts: Thank you for reading! :hearts:
 </div>
