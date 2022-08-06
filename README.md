@@ -28,7 +28,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 </div>
 ---- 
 <!--START_SECTION:table-->
-<details>
+<details align="center">
 <summary>Courses List</summary>
 
 
@@ -41,7 +41,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Amanda-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Lyukio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
  ##
@@ -53,11 +53,11 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 
 --------
 <div  align="center">
- # <i> "Anyone who motivates you to be better is someone worth keeping around."</i> 
+ <i> "Anyone who motivates you to be better is someone worth keeping around."</i> 
  
- <p align="left">
-  <img src=https://imgur.com/HQ3WNwf.gif> 
-</p>
+ <p align="center">
+   <img src=https://imgur.com/HQ3WNwf.gif> 
+ </p>
 
 # Thank you for reading! <3
 </div>
