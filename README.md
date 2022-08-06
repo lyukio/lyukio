@@ -15,27 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3  align="center">I'm Leonardo Yukio</h3>
+<h3 align="center">I'm Leonardo Yukio</h3>
 <br>
-<div  align="center">
-- 🔭 I’m currently working at **Huddle Brasil**. 
-Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>.
-
-- 🌱 I’m currently learning **How to create a Data Queue to load a Data Lake**.
-- 💬 Ask me about **programming logic, technologies and PC setups**. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.
-- 😄 Pronouns: he/him.
-- ⚡ Fun fact: I know how to solve a Rubiks Cube.
+<div align="center">
+ 
+ <p align="center">🔭 I’m currently working at <b>Huddle Brasil</b>.
+Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>.</p>
+<p align="center">🌱 I’m currently learning <b>How to create a Data Queue to load a Data Lake</b>.</p>
+<p align="center">💬 Ask me about <b>programming logic, technologies and PC setups</b>. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.</p>
+<p align="center">😄 Pronouns: he/him.</p>
+<p align="center">⚡ Fun fact: I know how to solve a Rubiks Cube.</p> 
 </div>
----- 
+
+##
+
 <!--START_SECTION:table-->
 <details align="center">
-<summary>Courses List</summary>
+<summary align="center">Courses List</summary>
 
-
-| Course | Place | Teacher |
-| :---: | :---: | :---: |
-| APIs com Node.js | São Paulo-SP | Erick Wendel |
-
+<table align="center">
+ <tr>
+  <th>Course</th>
+  <th>Place</th>
+  <th>Teacher</th>
+ </tr>
+ <tr>
+  <td>APIs com Node.js</td>
+  <td>São Paulo-SP</td>
+  <td>Erick Wendel</td>
+ </tr>
+ </table>
 </details>
 
  <div align="center" style="display: inline_block"><br>
@@ -55,6 +64,8 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 <div  align="center">
  <i> "Anyone who motivates you to be better is someone worth keeping around."</i> 
  
+ <br>
+ <br>
  <p align="center">
    <img src=https://imgur.com/HQ3WNwf.gif> 
  </p>
