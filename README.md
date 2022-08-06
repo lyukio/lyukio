@@ -1,4 +1,4 @@
-# Hi there 👋
+<h1  align="center"> Hi there 👋</h1>
 
 <!--
 **lyukio/lyukio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Leonardo Yukio
+<h3  align="center">I'm Leonardo Yukio</h3>
 <br>
-
+<div  align="center">
 - 🔭 I’m currently working at **Huddle Brasil**. 
 Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>.
 
@@ -25,7 +25,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 - 💬 Ask me about **programming logic, technologies and PC setups**. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I know how to solve a Rubiks Cube.
-
+</div>
 ---- 
 <!--START_SECTION:table-->
 <details>
@@ -52,7 +52,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 </p>
 
 --------
-
+<div  align="center">
  # <i> "Anyone who motivates you to be better is someone worth keeping around."</i> 
  
  <p align="left">
@@ -60,3 +60,4 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
 </p>
 
 # Thank you for reading! <3
+</div>
