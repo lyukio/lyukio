@@ -47,7 +47,15 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
  </table>
 </details>
 
- <div align="center" style="display: inline_block"><br>
+
+ 
+ <div align="center">
+   <a href="https://github.com/lyukio">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lyukio&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyukio&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
+</div>
+ 
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Lyukio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -70,5 +78,5 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
    <img src=https://imgur.com/HQ3WNwf.gif> 
  </p>
 
-:hearts: Thank you for reading! :hearts:
+🥳 Thank you for reading! 🥳
 </div>
