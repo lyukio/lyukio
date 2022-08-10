@@ -40,7 +40,7 @@ Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>
   <th>Teacher</th>
  </tr>
  <tr>
-  <td>APIs com Node.js</td>
+  <td>APIs with Node.js</td>
   <td>São Paulo-SP</td>
   <td>Erick Wendel</td>
  </tr>
