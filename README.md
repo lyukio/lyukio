@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
  
- <p align="center">🔭 I’m currently working at <b>Huddle Brasil</b>.
+ <p align="center">🔭 I’m currently working at <b>Safe Space</b>.
 Working with <a href="https://stackshare.io/lyukio/huddle-brasil">this stack</a>.</p>
 <p align="center">🌱 I’m currently learning <b>How to create a Data Queue to load a Data Lake</b>.</p>
 <p align="center">💬 Ask me about <b>programming logic, technologies and PC setups</b>. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.</p>
