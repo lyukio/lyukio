@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
  
- <!--<p align="center">🔭 I’m currently working at <b>Safe Space</b>.
-Working with <a href="https://stackshare.io/lyukio/safe-space">this stack</a>.</p>-->
+<p align="center">🔭 I’m currently working at <b>Bot Designer</b>.
+Working with <a href="https://stackshare.io/lyukio/bot-designer">this stack</a>.</p>
 <p align="center">🌱 I’m currently learning <b>How to use Jest to create automatic tests</b>.</p>
 <p align="center">💬 Ask me about <b>programming logic, technologies and PC setups</b>. Or about <a href="https://stackshare.io/lyukio/my-stack">my stack</a>.</p>
 <p align="center">😄 Pronouns: he/him.</p>
@@ -43,6 +43,11 @@ Working with <a href="https://stackshare.io/lyukio/safe-space">this stack</a>.</
   <td>APIs with Node.js</td>
   <td>São Paulo-SP</td>
   <td>Erick Wendel</td>
+ </tr>
+ <tr>
+  <td>Full Cycle</td>
+  <td>Online</td>
+  <td>Several</td>
  </tr>
  </table>
 </details>
